@@ -6,4 +6,4 @@
 
 ## 수업 자료
 - [lecture-react-season2](https://github.com/jeonghwan-kim/lecture-react-season2)
-  
+- [blog](https://jeonghwan-kim.github.io/2023/06/24/lecture-react-season2-part1)
